@@ -17,3 +17,15 @@ envs/
 ├── ~/  
 │   └── environment.yaml  
 └── ...  
+
+---
+
+## 사용 방법
+
+환경 저장 및 생성:
+
+```bash
+conda env export > environment.yaml
+conda env create -f environment.yaml
+conda activate <env-name>
+```
