@@ -7,13 +7,13 @@
 
 ## 📁 Repository Structure
 
-envs/
-├── miniROCKET/
-│   └── environment.yaml
-├── ~/
-│   └── environment.yaml
-├── ~/
-│   └── environment.yaml
-├── ~/
-│   └── environment.yaml
-└── ...
+envs/  
+├── miniROCKET/  
+│   └── environment.yaml  
+├── ~/  
+│   └── environment.yaml  
+├── ~/  
+│   └── environment.yaml  
+├── ~/  
+│   └── environment.yaml  
+└── ...  
