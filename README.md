@@ -10,6 +10,7 @@
 envs/  
 ├── miniROCKET/  
 │   └── environment.yaml  
+│   └── mROCKET_GUIDE_##.ipynb  
 ├── ~/  
 │   └── environment.yaml  
 ├── ~/  
