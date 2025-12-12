@@ -95,4 +95,3 @@ dependencies:
       - matplotlib==3.10.7
       - pillow==12.0.0
       - pyparsing==3.2.5
-prefix: C:\Users\imb2a\anaconda3\envs\nids
